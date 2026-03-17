@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Database exports (optional - only if large/unnecessary)
+*.sql.bak
+
+# XAMPP / system files
+xampp/
